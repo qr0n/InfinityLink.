@@ -1,0 +1,9 @@
+{
+  "file" : "uh.json",
+  "attrs" : {
+    "web_access" : "False"
+    },
+  "backup" : {
+    "back_file" : "path to file"
+  }
+}

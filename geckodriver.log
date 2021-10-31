@@ -1,0 +1,173 @@
+1635440152670	geckodriver	INFO	Listening on 127.0.0.1:36395
+1635440152696	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegdtVLM"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1635440153762	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilegdtVLM/search.json.mozlz4", (void 0)))
+1635440158946	Marionette	INFO	Listening on port 44065
+1635440159064	Marionette	WARN	TLS certificate errors will be ignored for this session
+Error reading incoming packet: (Error: Failed to parse packet header! - _readHeader@chrome://marionette/content/transport.js:475:13
+_processIncoming@chrome://marionette/content/transport.js:409:19
+onInputStreamReady@chrome://marionette/content/transport.js:372:14
+)
+Error reading incoming packet: (Error: Failed to parse packet header! - _readHeader@chrome://marionette/content/transport.js:475:13
+_processIncoming@chrome://marionette/content/transport.js:409:19
+onInputStreamReady@chrome://marionette/content/transport.js:372:14
+)
+Error reading incoming packet: (Error: Failed to parse packet header! - _readHeader@chrome://marionette/content/transport.js:475:13
+_processIncoming@chrome://marionette/content/transport.js:409:19
+onInputStreamReady@chrome://marionette/content/transport.js:372:14
+)
+1635440216472	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+Error reading incoming packet: (Error: No packet types for header: GET / HTTP/1.1
+Host: - _processIncoming@chrome://marionette/content/transport.js:418:17
+onInputStreamReady@chrome://marionette/content/transport.js:372:14
+)
+Error reading incoming packet: (Error: No packet types for header: GET /favicon.ico HTTP/1.1
+Host: - _processIncoming@chrome://marionette/content/transport.js:418:17
+onInputStreamReady@chrome://marionette/content/transport.js:372:14
+)
+1635440368392	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'interactive'.
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635440805458	geckodriver	INFO	Listening on 127.0.0.1:47893
+1635440806462	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileEpshrZ"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1635440807565	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileEpshrZ/search.json.mozlz4", (void 0)))
+1635440811936	Marionette	INFO	Listening on port 33877
+1635440812134	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635440819645	geckodriver	INFO	Listening on 127.0.0.1:35301
+1635440820652	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilejd8Mpb"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1635440821843	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilejd8Mpb/search.json.mozlz4", (void 0)))
+1635440826735	Marionette	INFO	Listening on port 45671
+1635440827079	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635440940281	geckodriver	INFO	Listening on 127.0.0.1:59851
+1635440940292	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileA9DhiM"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1635440941391	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileA9DhiM/search.json.mozlz4", (void 0)))
+1635440945325	Marionette	INFO	Listening on port 36071
+1635440945510	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635546417856	geckodriver	INFO	Listening on 127.0.0.1:60595
+1635546418846	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiledGWQIJ"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1635546425469	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiledGWQIJ/search.json.mozlz4", (void 0)))
+1635546434259	Marionette	INFO	Listening on port 42157
+1635546434620	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635548135568	geckodriver	INFO	Listening on 127.0.0.1:39447
+1635548136571	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilekwIz0R"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1635548138783	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilekwIz0R/search.json.mozlz4", (void 0)))
+1635548146039	Marionette	INFO	Listening on port 42235
+1635548146416	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635569394335	geckodriver	INFO	Listening on 127.0.0.1:33431
+1635569395331	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileaX5K8u"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1635569398725	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaX5K8u/search.json.mozlz4", (void 0)))
+1635569402400	Marionette	INFO	Listening on port 41265
+1635569402626	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635582277279	geckodriver	INFO	Listening on 127.0.0.1:52353
+1635582278270	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilecn3Z0N"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1635582281735	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilecn3Z0N/search.json.mozlz4", (void 0)))
+1635582285843	Marionette	INFO	Listening on port 38981
+1635582286187	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635606220023	geckodriver	INFO	Listening on 127.0.0.1:57379
+1635606221022	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewKmX5G"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1635606226624	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilewKmX5G/search.json.mozlz4", (void 0)))
+1635617146433	geckodriver	INFO	Listening on 127.0.0.1:36039
+1635617147439	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile64bMLE"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1635617150198	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofile64bMLE/search.json.mozlz4", (void 0)))
+1635617154609	Marionette	INFO	Listening on port 33901
+1635617154705	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635629988076	geckodriver	INFO	Listening on 127.0.0.1:42173
+1635629989061	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilenArs1g"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1635629993427	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilenArs1g/search.json.mozlz4", (void 0)))
+1635629998575	Marionette	INFO	Listening on port 33907
+1635629998886	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635642428829	geckodriver	INFO	Listening on 127.0.0.1:34325
+1635642429827	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDVgfR4"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1635642434399	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileDVgfR4/search.json.mozlz4", (void 0)))
+1635642442434	Marionette	INFO	Listening on port 32857
+1635642442825	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635651956130	geckodriver	INFO	Listening on 127.0.0.1:56601
+1635651957121	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileFpXBfc"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1635651964556	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileFpXBfc/search.json.mozlz4", (void 0)))
+1635651973274	Marionette	INFO	Listening on port 36399
+1635651973359	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635655126249	geckodriver	INFO	Listening on 127.0.0.1:38007
+1635655127239	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiletPr7Ot"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1635655130062	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofiletPr7Ot/search.json.mozlz4", (void 0)))
+1635655132781	Marionette	INFO	Listening on port 36905
+1635655132882	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635672501382	geckodriver	INFO	Listening on 127.0.0.1:43727
+1635672502384	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileHeGLb6"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1635672505565	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileHeGLb6/search.json.mozlz4", (void 0)))
+1635672510081	Marionette	INFO	Listening on port 41183
+1635672510189	Marionette	WARN	TLS certificate errors will be ignored for this session
+1635692000290	geckodriver	INFO	Listening on 127.0.0.1:43545
+1635692000319	mozrunner::runner	INFO	Running command: "/usr/bin/firefox" "--marionette" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBQiqTh"
+[GFX1-]: glxtest: libpci missing
+[GFX1-]: No GPUs detected via PCI
+1635692003618	Marionette	INFO	Marionette enabled
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileBQiqTh/search.json.mozlz4", (void 0)))
+1635692008236	Marionette	INFO	Listening on port 37151
+1635692008354	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: WebExtensions: reset-default-search: starting.
+console.log: WebExtensions: reset-default-search: No addons in our list are installed.
+1635693106344	Marionette	WARN	Ignoring event 'pageshow' because document has an invalid readyState of 'uninitialized'.
+JavaScript warning: https://static.ok.xxx/static/js/main.min.okx.v1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://static.ok.xxx/static/js/main.min.okx.v1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://static.ok.xxx/static/js/main.min.okx.v1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://static.ok.xxx/static/js/main.min.okx.v1.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1635696489124	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+1635696516523	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
