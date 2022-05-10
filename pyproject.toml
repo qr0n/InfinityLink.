@@ -10,6 +10,7 @@ discord = "^1.7.3"
 selenium = "^3.141.0"
 Flask = "^2.0.2"
 django-buttons = "^0.9.2"
+"dislash.py" = "^1.4.9"
 
 [tool.poetry.dev-dependencies]
 

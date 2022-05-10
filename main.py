@@ -6,6 +6,10 @@ import time
 from key_gen import assigner
 from keep_alive import keep_alive
 from discord.utils import get
+from dislash import InteractionClient
+
+
+
 driver = webdriver.Firefox()
 fn = assigner.Create()
 
@@ -48,11 +52,12 @@ def get_(page):
     return
 
 bot = commands.Bot(command_prefix="$!")
+inter_client = InteractionClient(bot)
 
 @bot.event
 async def on_raw_reaction_add(payload):
     if payload.channel_id == 866024988901638185 and payload.emoji.name == "<:cantrash:850571950408335391>":
-      channel = bot.get_channel(614467771866021944)
+      channel = bot.get_channel(payload.channel.id)
 
       message = await channel.fetch_message(payload.message_id)
 
@@ -82,6 +87,13 @@ async def chec(message):
       os.remove(f"{fn}.png")
       return print(E)
 
+@inter_client.message_command(name="Open link", guild_ids=[759474157330366506])
+async def adders(inter):
+  if inter.message.content.startswith("http://") or inter.message.content.startswith("https://"):
+    try:
+      await inter.send(f"preview of `{inter.message.content}`",file=discord.File(get_page(inter.message.content)['fp'], "DisFrame.png"))
+    except Exception as E:
+      await inter.respond(E)
 
 keep_alive()
 bot.run(os.environ['token'])
